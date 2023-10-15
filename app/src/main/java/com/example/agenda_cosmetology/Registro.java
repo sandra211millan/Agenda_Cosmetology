@@ -33,7 +33,7 @@ public class Registro extends AppCompatActivity {
     FirebaseAuth firebaseAuth;
     ProgressDialog progressDialog;
 
-    String nombre ="", correo = "", password = "", confirmarpassword = "";
+    String nombre =" ", correo = " ", password = " ", confirmarpassword = " ";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

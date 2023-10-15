@@ -14,4 +14,19 @@
     <string name="RegistrarUsuario">Registrar</string>
     <string name="TengounacuentaTXT">Tengo una cuenta</string>
 
+    <!--MENU PRINCIPAL-->
+    <string name="CerrarSesion">Salir</string>
+
+    <!--ACTIVIDAD LOGIN-->
+    <string name="IniciarsesionTXT">Iniciar sesion</string>
+    <string name="CorreoLogin">Correo</string>
+    <string name="PassLogin">Contraseña</string>
+    <string name="Btn_Logeo">Ingresar</string>
+    <string name="UsuarioNuevoTXT">¿No tienes una cuenta?. Registrate</string>
+
+    <!--MENU PRINCIPAL-->
+    <string name="BienvenidoPrincipal">Bienvenido(a)</string>
+    <string name="NombresPrincipal"> -- </string>
+    <string name="CorreoPrincipal"> -- </string>
+
 </resources>
